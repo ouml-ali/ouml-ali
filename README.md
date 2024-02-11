@@ -3,15 +3,16 @@
 I'm a full-stack developer building web apps to solve real world problems. Currently following the odin project to review the basics and learn new things ...
 
    <p align="left">
+      <a href="https://linkedin.com/in/ali-oumlal" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+      </a>
       <a href="https://github.com/ouml-ali" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
       </a>
       <a href="https://x.com/ali_oumlal" target="_blank">
         <img src=https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white />
       </a>
-      <a href="https://linkedin.com/in/ali-oumlal" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-      </a>
+      
    </p>
 
 ---
