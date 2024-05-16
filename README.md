@@ -1,6 +1,6 @@
 # 🎸 Ali OUMLAL
 
-I'm a full-stack developer building web apps to solve real world problems. Currently following the odin project to review the basics and learn new things ...
+I'm a full-stack developer building web apps to solve real world problems...
 
    <p align="left">
       <a href="https://linkedin.com/in/ali-oumlal" target="_blank">
