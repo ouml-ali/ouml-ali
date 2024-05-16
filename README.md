@@ -1,6 +1,6 @@
 # 🎸 Ali OUMLAL
 
-I'm a full-stack developer building web apps to solve real world problems...
+I'm a full-stack developer building web apps to solve real world problems, feel free to reach out
 
    <p align="left">
       <a href="https://linkedin.com/in/ali-oumlal" target="_blank">
